@@ -1,1 +1,2 @@
-# space-shooeter
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
